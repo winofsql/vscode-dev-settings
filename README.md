@@ -1,6 +1,6 @@
 # vscode-dev-settings
 
-[記事( 窓の杜 )(https://forest.watch.impress.co.jp/docs/news/1360147.html)
+[記事( 窓の杜 )](https://forest.watch.impress.co.jp/docs/news/1360147.html)
 
 <br>
 
