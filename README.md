@@ -1,5 +1,7 @@
 # vscode-dev-settings
 
+2021/10/20 パブリックプレビュー
+
 [記事( 窓の杜 )](https://forest.watch.impress.co.jp/docs/news/1360147.html)
 
 <br>
