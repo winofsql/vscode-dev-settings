@@ -22,23 +22,6 @@
         "**/.settings": true,
         "**/.factorypath": true
     },
-    "terminal.integrated.fontSize": 16,
-    "terminal.integrated.profiles.windows": {
-        "PowerShell": {
-            "source": "PowerShell",
-            "icon": "terminal-powershell"
-        },
-        "Command Prompt": {
-            "path": [
-                "C:\\WINDOWS\\system32\\cmd.exe"
-            ],
-            "args": [],
-            "icon": "terminal-cmd"
-        },
-        "Git Bash": {
-            "source": "Git Bash"
-        }
-    },
     "files.associations": {
         "*.csv": "bat",
         "*.jsp": "java",
@@ -51,15 +34,6 @@
     },
     "[html]": {
         "editor.defaultFormatter": "vscode.html-language-features"
-    },
-    "[jsonc]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "[csv]": {
-        "files.encoding": "shiftjis"
-    },
-    "[vbs]": {
-        "files.encoding": "shiftjis"
     },
     "[bat]": {
         "files.encoding": "shiftjis"
