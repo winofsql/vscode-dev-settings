@@ -40,6 +40,7 @@
         }
     },
     "files.associations": {
+        "*.csv": "bat",
         "*.jsp": "java",
         "*.htm": "html",
         "*.hta": "html",
