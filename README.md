@@ -8,6 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/142982754-89dd2453-d2e1-4bd6-86a0-d8f761bc994d.png)
 
+<br>
 
 ```json
 {
@@ -50,6 +51,8 @@
     "files.autoSave": "afterDelay"
 }
 ```
+
+<br>
 
 ![image](https://user-images.githubusercontent.com/1501327/143179438-c3f1d1bc-c655-4fde-ae31-a43ba95ed884.png)
 
