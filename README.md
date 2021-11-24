@@ -50,3 +50,5 @@
     "files.autoSave": "afterDelay"
 }
 ```
+
+![image](https://user-images.githubusercontent.com/1501327/143179438-c3f1d1bc-c655-4fde-ae31-a43ba95ed884.png)
