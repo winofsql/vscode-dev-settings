@@ -58,7 +58,7 @@
 
 <br>
 
-ショートカットキーの定義参照\
+ショートカットキーの定義参照
 ```
 workbench.action.openGlobalKeybindingsFile
 ```
