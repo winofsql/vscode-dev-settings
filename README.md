@@ -24,6 +24,8 @@
         "**/.factorypath": true
     },
     "files.associations": {
+        "*.wsf": "bat",
+        "*.vbs": "bat",
         "*.csv": "bat",
         "*.jsp": "java",
         "*.htm": "html",
