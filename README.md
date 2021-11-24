@@ -56,3 +56,66 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/143179438-c3f1d1bc-c655-4fde-ae31-a43ba95ed884.png)
 
+<br>
+ショートカットキーの定義参照
+```
+workbench.action.openGlobalKeybindingsFile
+```
+
+```json
+[
+    {
+        "key": "ctrl+f1",
+        "command": "workbench.action.closeFolder",
+        "when": "emptyWorkspaceSupport && workbenchState != 'empty'"
+    },
+    {
+        "key": "shift+alt+k",
+        "command": "workbench.action.openGlobalKeybindingsFile"
+    },
+    {
+        "key": "ctrl+shift+delete",
+        "command": "editor.action.trimTrailingWhitespace",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+f7",
+        "command": "editor.action.transformToUppercase"
+    },
+    {
+        "key": "ctrl+f6",
+        "command": "editor.action.transformToLowercase"
+    },
+    {
+        "key": "shift+alt+pausebreak",
+        "command": "editor.action.formatSelection",
+        "when": "editorHasDocumentSelectionFormattingProvider && editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+numpad_divide",
+        "command": "workbench.action.splitEditorInGroup",
+        "when": "activeEditorCanSplitInGroup"
+    },
+    {
+        "key": "ctrl+shift+numpad_divide",
+        "command": "workbench.action.joinEditorInGroup",
+        "when": "sideBySideEditorActive"
+    },
+    {
+        "key": "ctrl+f2",
+        "command": "workbench.action.closeAllEditors"
+    },
+    {
+        "key": "ctrl+shift+numpad_subtract",
+        "command": "workbench.action.positionPanelRight"
+    },
+    {
+        "key": "ctrl+shift+numpad_add",
+        "command": "workbench.action.positionPanelBottom"
+    },
+    {
+        "key": "shift+alt+w",
+        "command": "workbench.action.openWorkspaceSettingsFile"
+    }
+]
+```
