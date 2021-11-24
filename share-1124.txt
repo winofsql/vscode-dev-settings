@@ -1,3 +1,5 @@
 C# エクスポート
 $"select * into [Excel 12.0 xml;DATABASE={link_file}].社員マスタ from [ODBC;Driver={{MySQL ODBC 8.0 Unicode Driver}};server=localhost;database=lightbox;uid=root;pwd=].社員マスタ";
 
+C# 
+$"{{MySQL ODBC 8.0 Unicode Driver}}";
